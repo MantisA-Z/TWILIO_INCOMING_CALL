@@ -1,2 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
 .env
-pakage-lock.json
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+/dist
+/build
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Other configuration files
+.env.local
